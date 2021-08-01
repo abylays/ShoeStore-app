@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="login">Log in</string>
+    <string name="username">Email</string>
+    <string name="password">Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="the_world_of_shoes">to the World of Shoes!</string>
+    <string name="instructions">Instructions</string>
+    <string name="toolbar_log_out">Logout</string>
+    <string name="shoe_name">Shoe Name:</string>
+    <string name="shoe_name_hint">Shoe Name</string>
+    <string name="company_name">Company Name:</string>
+    <string name="shoe_size">Shoe Size:</string>
+    <string name="company_name_hint">Company Name</string>
+    <string name="shoe_size_hint">Shoe Size</string>
+    <string name="description_hint">Description</string>
+    <string name="description">Description:</string>
+    <string name="instructions2">2. Tap the + icon to add a new shoe item to your inventory</string>
+    <string name="instructions1">1. All shoes listed can be bought. You can see more details for each one.</string>
+    <string name="next">Next</string>
+    <string name="enter_description">Enter description</string>
+    <string name="enter_shoe_name">Enter shoe name</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="enter_shoe_size">Enter shoe size</string>
+    <string name="enter_company_name">Enter company name</string>
+    <string name="details_header">Shoe details</string>
+
+
+</resources>
